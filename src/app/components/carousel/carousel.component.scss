@@ -1,0 +1,11 @@
+.carousel {
+  margin: 10px;
+
+  &-item {
+    display: inline-block;
+    margin: 5px;
+    position: relative;
+    width: 100px;
+    height: 40px;
+  }
+}
