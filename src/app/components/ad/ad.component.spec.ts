@@ -1,5 +1,4 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
-
 import { AdComponent } from './ad.component';
 
 describe('AdComponent', (): void => {
